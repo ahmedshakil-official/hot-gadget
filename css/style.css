@@ -1,0 +1,102 @@
+.btn-dark{
+    background-color: black;
+}
+.carousel-indicators .active{
+    width: 30px;
+    height: 8px;
+    border-radius: 40%;
+    background-image: linear-gradient(to right,rgb(255, 136, 0),rgb(251, 255, 5));
+    -webkit-border-radius: 40%;
+    -moz-border-radius: 40%;
+    -ms-border-radius: 40%;
+    -o-border-radius: 40%;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 8px;
+    border-radius: 40%;
+    background-color:gray;
+    -webkit-border-radius: 40%;
+    -moz-border-radius: 40%;
+    -ms-border-radius: 40%;
+    -o-border-radius: 40%;
+}
+.row h5{
+    color: rgb(255, 136, 0);
+}
+.smartphone-laptop{
+    margin: 5% 0;
+}
+.title{
+    margin-bottom: 2%;
+}
+.card{
+    text-align: center;
+    border: none;
+    box-shadow: lightgray 5px 5px 18px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#contact h6{
+    color: grey;
+    font-weight: 200;
+}
+#contact{
+    margin-top: 5%;
+    box-shadow: lightgray 2px 2px 10px;
+    padding: 5% 0;
+    background-color: rgba(104, 100, 103, 0.041);
+
+}
+footer{
+    margin: 5% 0;
+}
+.subscribe-button{
+    margin: 2%;
+}
+.categories-section{
+    margin: 5%;
+}
+.category-border{
+    border-style: solid;
+    border-width: 0 0 5px 0;
+    padding-bottom:5px;
+    margin-bottom:20px;
+    width:8%;
+    margin: auto;
+    border-image: linear-gradient(45deg, rgb(255, 125, 3), rgb(250,224,66)) 1;
+    margin-bottom: 5%;
+}
+.card-columns{
+    margin-left: 20%;
+}
+.category-bag {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 5px;
+}
+.category-shoe-beauty {
+    margin-bottom: 40px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 25px;
+}
+.category-bag h6{
+    padding-top: 10%;
+}
+#beauty-text{
+    padding-top: 10%;
+}
+.col-sm-12{
+    margin-bottom: 20px;
+}
